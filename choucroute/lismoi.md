@@ -1,2 +1,2 @@
-Bravo tu as réussi à me suivre !!!
-La réponse est : AIRFORCEONE
+Bravo tu as réussi à nous suivre !!!
+Le weekend d'intégration se déroulera à HYERESLESPALMIERS
