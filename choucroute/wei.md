@@ -8,6 +8,6 @@ Pour vous féliciter, nous vous communiquons une information cruciale pour la su
 
 Le weekend d'intégration se déroulera à _**HYERESLESPALMIERS**_
 
-On vous y attend le WE prochain (même si vous aviez certainement du déjà deviner la date ;) ) !!
+On vous y attend le WE prochain (même si vous aviez déjà dû deviner la date ;) ) !!
 
 *Ne dites rien aux profs, ils cherchent toujours ;).*
