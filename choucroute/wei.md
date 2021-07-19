@@ -11,7 +11,6 @@ Le weekend d'intégration se déroulera à _**HYERESLESPALMIERS**_ (réponse au 
 On vous y attend donc le WE prochain, mais nous pensons que votre esprit de déduction l'avait déjà découvert ;) !!
 
 On s'occupe de tout !!
-
 =====
 
 _**Le Bureau des Elèves.**_ 
