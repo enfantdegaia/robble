@@ -10,4 +10,4 @@ Le weekend d'intégration se déroulera à _**HYERESLESPALMIERS**_
 
 On vous y attend le WE prochain (même si vous aviez certainement du deviner la date ;) ) !!
 
-*Ne dites rien aux profs, ils cherchent toujours ;).
+*Ne dites rien aux profs, ils cherchent toujours ;).*
