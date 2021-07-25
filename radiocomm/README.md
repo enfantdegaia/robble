@@ -1,6 +1,6 @@
 Bien joué ! On touche au but.
 
-Nous avons intercepté les communications radio, elles vous aideront à trouver notre contact sur place : 
+Nous avons intercepté les communications radio, elles vous aideront à trouver le nom de notre contact sur place : 
 
 https://github.com/enfantdegaia/robble/blob/main/radiocomm/Interception_radiocom.mp3
 
