@@ -8,11 +8,11 @@ Vous avez prouvé votre valeur !
 
 Pour vous féliciter, nous vous communiquons une information cruciale pour la suite de votre curcus à la Zupple University : 
 
-Le weekend d'intégration se déroulera à _**NICE**_ au bord de la _**MEDITERRANEE**_ dans le club privée d'un agent sous couverture _**MAX**_.
+Le weekend d'intégration se déroulera à _**NICE**_ au bord de la _**MEDITERRANEE**_ dans le club privée de _**MAX**_ (un agent sous couverture) .
 
 ----
 
-La réponse à l'épreuve est _**VIVELEBDEEH**_
+La réponse au cours est _**VIVELEBDEEH**_
 
 ----
 
