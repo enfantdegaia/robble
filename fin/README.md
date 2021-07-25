@@ -1,4 +1,4 @@
-# Bravo tu as réussi à nous suivre !!! 
+# Félicitations tu as réussi à nous suivre !!! 
 
 Cette épreuve était réalisée par le bureau des Elèves en collaboration avec l'équipe pédagogique. 
 
