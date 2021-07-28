@@ -1,6 +1,6 @@
 Bravo ! Vous avez atteint la première étape, mais nous ne sommes plus ici.
 
-Cette escale vous permet d'être rejoint par vos homologues de Quantico.
+Cette escale vous permet d'être rejoints par vos homologues de Quantico.
 
 Vous récupérez ensemble une série de billets dans une consigne de l'aéroport. 
 
