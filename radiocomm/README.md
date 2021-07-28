@@ -1,6 +1,10 @@
 Bien joué ! On touche au but.
 
-Nous avons intercepté les communications radio, ton contact t'attends à destination, quel est son nom ?
+Un bateau nous a récupéré au point de chute. 
+
+Une fois sur la terre ferme, des interceptions de communication radio nous sont envoyées.
+
+Votre contact vous attend à destination, quel est son nom ?
 
 https://github.com/enfantdegaia/robble/blob/main/radiocomm/Interception_radiocom.mp3
 
