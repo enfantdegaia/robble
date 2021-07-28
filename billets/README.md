@@ -4,6 +4,6 @@ Cette escale vous permet d'être rejoints par vos homologues de Quantico.
 
 Vous récupérez ensemble une série de billets dans une consigne de l'aéroport. A vous de choisir le bon vol !
 
-https://github.com/enfantdegaia/robble/blob/main/billets/Billets.png (pensez à ouvrir l'image en entier ;) )
+https://github.com/enfantdegaia/robble/blob/main/billets/Billets.png
 
 Quelle est la prochaine étape ?
