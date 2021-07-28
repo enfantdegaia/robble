@@ -8,7 +8,7 @@ Vous avez prouvé votre valeur !
 
 Pour vous féliciter, nous vous communiquons une information cruciale pour la suite de votre curcus à la Zupple University : 
 
-Le weekend d'intégration se déroulera à sur les bords du _**LAC MICHIGAN**_ dans le club privée de _**CHARLOTTE**_ (un agent sous couverture) avec vos correspondants de Quantico.
+Le weekend d'intégration se déroulera à sur les rives du _**LAC MICHIGAN**_ dans le club privée de _**CHARLOTTE**_ (un agent sous couverture) avec vos correspondants de Quantico.
 
 ----
 
