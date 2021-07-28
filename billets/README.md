@@ -1,5 +1,7 @@
-Bravo ! Mais nous ne sommes déjà plus ici.
+Bravo ! Vous avez atteint la première étape, mais nous ne sommes plus ici.
 
-Un bateau nous a récupéré au point de chute, à vous de trouver notre prochaine étape : 
+Cette escale vous permet d'être rejoint par vos homologues de Quantico.
 
-https://github.com/enfantdegaia/robble/blob/main/billets/Billets.png (pensez à bien ouvrir l'image en entier ;) et n'oubliez pas le préfixe ).
+Vous récupérez ensemble une série de billets dans une consigne de l'aéroport. 
+
+https://github.com/enfantdegaia/robble/blob/main/billets/Billets.png 
